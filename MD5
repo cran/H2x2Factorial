@@ -1,0 +1,10 @@
+de2e0e7a80aaca2a4c77db907eba533f *DESCRIPTION
+ff46b55b3d47a7768df011eca31b48d4 *NAMESPACE
+598c72929937d2805fc994f931150a6a *R/calc.H2x2Factorial.R
+6cae8d3b406558a96b17b4ee89fc0964 *R/graph.H2x2Factorial.R
+94c2f991e2efe33172972095452f3a1a *R/helpers.R
+78369436ac2186397f3938eff5e5c412 *R/table.H2x2Factorial.R
+740332a064674903dbfa79ed9dc79ff1 *README.md
+a223cdc7865012e1f1577a25ee47938d *man/calc.H2x2Factorial.Rd
+41264a2058100edfa4f13cc0f174f603 *man/graph.H2x2Factorial.Rd
+7341548c94f0a46dae1bfb57d619bd0c *man/table.H2x2Factorial.Rd
