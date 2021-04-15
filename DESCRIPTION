@@ -1,7 +1,7 @@
 Package: H2x2Factorial
 Title: Sample Size Calculation in Hierarchical 2x2 Factorial Trials
-Version: 1.0.3
-Date: 2021-02-06
+Version: 1.1.0
+Date: 2021-04-15
 Authors@R: c(person("Zizhong","Tian", role = c("aut", "cre"),
             email = "zizhong.tian@yale.edu"),
             person("Denise", "Esserman", role = "aut",
@@ -15,14 +15,13 @@ Description: Implements the sample size methods for hierarchical 2x2 factorial t
 Depends: R (>= 3.6.0)
 License: LGPL (>= 2.1)
 Encoding: UTF-8
-LazyData: true
 RoxygenNote: 7.1.1
 Suggests: knitr, rmarkdown
 NeedsCompilation: no
-Packaged: 2021-02-06 20:28:47 UTC; Billy Tian
+Packaged: 2021-04-15 04:51:26 UTC; Billy Tian
 Author: Zizhong Tian [aut, cre],
   Denise Esserman [aut],
   Guangyu Tong [aut],
   Fan Li [aut]
 Repository: CRAN
-Date/Publication: 2021-02-06 22:30:19 UTC
+Date/Publication: 2021-04-15 05:50:02 UTC
